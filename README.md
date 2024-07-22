@@ -5,7 +5,7 @@
 _Estes são meus primeiros passos no mundo da programação._
 
 
-Tenho 29 anos. 
+Tenho 32 anos. 
 Sou Biomédica e trabalho em um laboratório de análises clínicas. 
 
 Nas horas vagas sou _escritora_ 
